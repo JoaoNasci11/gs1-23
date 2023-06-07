@@ -58,7 +58,7 @@ Você pode encontrar a documentação geral do projeto e mais informações no T
 
 ## 6 - Suporte
 
-Para suporte, mande um email para:
+Para entrar em contato, mande um email para:
 
 Débora:
 rm97836@fiap.com.br
