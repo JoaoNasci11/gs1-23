@@ -75,7 +75,7 @@ rm550809@fiap.com.br
 
 - [@debsdamaso](https://www.github.com/debsdamaso)
 - [@RenatoRussano](https://www.github.com/RenatoRussano)
-- [@JoãoNasci11](https://github.com/JoaoNasci11)
+- [@JoaoNasci11](https://github.com/JoaoNasci11)
 ## 8 - 🚀 Sobre a equipe
 Nossa equipe de tecnologia é composta atualmente por 2 estudantes do curso de Análise e Desenvolvimento de Sistemas da conceituada FIAP, que estão em busca de aprimoramento constante.
 Entendemos que para desenvolver a melhor solução possível, é preciso pensar fora da caixa e buscar ter uma visão ampla da situação.
